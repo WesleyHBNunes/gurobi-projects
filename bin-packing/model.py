@@ -19,18 +19,13 @@ def solve(items, total_weight):
 
 def add_constraints(model, items, total_weight):
     variables = model.getVars()
-    sum_weight = 0
-    for i, items in enumerate(items):
-        sum_weight += variables[i] * items[WEIGHT]
-    model.addConstr(sum_weight <= total_weight, name="Capacity_constraint")
+    model.addConstr(quicksum([variables[i] * item[WEIGHT] for i, item in enumerate(items)]) <= total_weight,
+                    name="Capacity_constraint")
 
 
 def set_objective_function(model, items):
     variables = model.getVars()
-    sum_profit = 0
-    for i, item in enumerate(items):
-        sum_profit += variables[i] * item[PROFIT]
-    model.setObjective(sum_profit, GRB.MAXIMIZE)
+    model.setObjective(quicksum([variables[i] * item[PROFIT] for i, item in enumerate(items)]), GRB.MAXIMIZE)
 
 
 def add_vars(model, items):
