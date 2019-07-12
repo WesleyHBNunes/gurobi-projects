@@ -1,6 +1,6 @@
 # Gurobi Projects
 ## Knapsack Problem model
-![Captura de tela de 2019-07-12 00-02-09](https://user-images.githubusercontent.com/45375544/61099354-5d2f1000-a438-11e9-979a-d8e5e92dc0e7.png)
+![Captura de tela de 2019-07-12 00-18-31](https://user-images.githubusercontent.com/45375544/61099972-ac764000-a43a-11e9-8d5e-8c0906a1d71e.png)
 
 ## Nesting Problem model
 Model from paper "The Dotted-Board Model: A new MIP model for nesting
