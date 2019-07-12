@@ -1,0 +1,4 @@
+General Data
+width # 400
+height # 79
+

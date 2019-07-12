@@ -1,0 +1,64 @@
+Academic license - for non-commercial use only
+Warning: variable name "0 0 0" has a space
+Warning: constraint name "IFP = Point(0,0) in polygon: 0" has a space
+Warning: to let Gurobi read it back, use rlp format
+Optimize a model with 946665 rows, 3445 columns and 1895132 nonzeros
+Variable types: 0 continuous, 3445 integer (3444 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 4e+01]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Found heuristic solution: objective 26.0000000
+Presolve removed 806273 rows and 1634 columns (presolve time = 5s) ...
+Presolve removed 807733 rows and 1634 columns (presolve time = 10s) ...
+Presolve removed 887337 rows and 2422 columns (presolve time = 16s) ...
+Presolve removed 891211 rows and 2422 columns
+Presolve time: 18.20s
+Presolved: 55454 rows, 1023 columns, 278771 nonzeros
+Variable types: 0 continuous, 1023 integer (1022 binary)
+
+Root simplex log...
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -0.0000000e+00   0.000000e+00   1.450000e+02     18s
+     823    1.1419580e-01   0.000000e+00   0.000000e+00     18s
+     823    1.1419580e-01   0.000000e+00   0.000000e+00     18s
+     823    1.1419580e-01   0.000000e+00   0.000000e+00     18s
+
+Root relaxation: objective 1.141958e-01, 823 iterations, 0.14 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0    0.11701    0  535   26.00000    0.11701   100%     -   21s
+H    0     0                      25.0000000    0.11701   100%     -   21s
+H    0     0                      24.0000000    0.11701   100%     -   21s
+H    0     0                      22.0000000    0.11701  99.5%     -   21s
+H    0     0                      21.0000000    0.11701  99.4%     -   21s
+     0     0    1.09495    0  125   21.00000    1.09495  94.8%     -   22s
+H    0     0                      20.0000000    1.09495  94.5%     -   28s
+     0     0    1.20132    0  236   20.00000    1.20132  94.0%     -   29s
+     0     0    2.00000    0   59   20.00000    2.00000  90.0%     -   29s
+     0     0    2.00000    0   54   20.00000    2.00000  90.0%     -   29s
+     0     0    2.53417    0   71   20.00000    2.53417  87.3%     -   29s
+H    0     0                      18.0000000    2.53417  85.9%     -   29s
+     0     0    3.78354    0   28   18.00000    3.78354  79.0%     -   29s
+     0     0    3.90067    0   28   18.00000    3.90067  78.3%     -   29s
+     0     0 infeasible    0        18.00000   18.00000  0.00%     -   30s
+
+Cutting planes:
+  Gomory: 17
+  Implied bound: 2
+  Clique: 9
+  MIR: 11
+
+Explored 1 nodes (6173 simplex iterations) in 30.04 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 7: 18 20 21 ... 26
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.800000000000e+01, best bound 1.800000000000e+01, gap 0.0000%
+Objective Function: 18.0
+Time: 214.54910945892334
