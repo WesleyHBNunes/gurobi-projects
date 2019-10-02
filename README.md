@@ -7,3 +7,6 @@ Model from paper "The Dotted-Board Model: A new MIP model for nesting
 irregular shapes"
 
 ![image2](https://user-images.githubusercontent.com/45375544/60689362-fbe4cb00-9e92-11e9-8338-9e7e81fef6f0.png)
+
+
+working on: TSP, Allocation Problem.
