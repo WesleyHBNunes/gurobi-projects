@@ -4,16 +4,15 @@
 ![attr_model](https://user-images.githubusercontent.com/45375544/66015528-49c89980-e4a9-11e9-9762-b9cda323962a.png)
 
 ## Drudge model
-![drudge_model](https://user-images.githubusercontent.com/45375544/66015122-b93d8980-e4a7-11e9-90bf-1c9be9ae866d.png)
+![drudge](https://user-images.githubusercontent.com/45375544/66015840-8c3ea600-e4aa-11e9-8cf6-b7ad03ed13b1.png)
 
 ## Knapsack Problem model
-![Captura de tela de 2019-07-12 00-18-31](https://user-images.githubusercontent.com/45375544/61099972-ac764000-a43a-11e9-8d5e-8c0906a1d71e.png)
+![knapsack](https://user-images.githubusercontent.com/45375544/66015910-d162d800-e4aa-11e9-8902-7eb12321b1ef.png)
 
 ## Nesting Problem model
 Model from paper "The Dotted-Board Model: A new MIP model for nesting
 irregular shapes"
-
-![image2](https://user-images.githubusercontent.com/45375544/60689362-fbe4cb00-9e92-11e9-8338-9e7e81fef6f0.png)
+![nesting](https://user-images.githubusercontent.com/45375544/66015841-8c3ea600-e4aa-11e9-8c09-7e19cca94110.png)
 
 
 working on: TSP, Allocation Problem.
