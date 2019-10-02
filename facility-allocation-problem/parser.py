@@ -11,4 +11,4 @@ def read_file(file):
         line += 1
     line += 1
     f = [float(l.strip('\n')) for l in lines[line:]]
-    return n, m, f, c
+    return n, m, c, f

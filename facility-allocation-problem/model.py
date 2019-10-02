@@ -4,7 +4,7 @@ from gurobi import *
 # M Client
 
 
-def solve(n, m, f, c):
+def solve(n, m, c, f):
     env = Env()
     env.setParam('TimeLimit', 3600)
     model = Model('Facility allocation model', env)
