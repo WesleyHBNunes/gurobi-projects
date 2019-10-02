@@ -14,7 +14,7 @@
 ![facility-problem](https://user-images.githubusercontent.com/45375544/66075606-61983000-e532-11e9-8550-20e9f98ba4d1.png)
 
 ## Knapsack Problem model
-![knapsack](https://user-images.githubusercontent.com/45375544/66015910-d162d800-e4aa-11e9-8902-7eb12321b1ef.png)
+![knapsack-model](https://user-images.githubusercontent.com/45375544/66076416-27c82900-e534-11e9-8a0c-208a81129472.png)
 
 ## Nesting Problem model
 Model from paper "The Dotted-Board Model: A new MIP model for nesting
