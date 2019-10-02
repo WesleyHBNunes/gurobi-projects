@@ -4,7 +4,7 @@ from gurobi import *
 def solve():
     env = Env()
     env.setParam('TimeLimit', 3600)
-    model = Model('Attribution Problem model', env)
+    model = Model('Facility allocation model', env)
     add_vars(model)
     set_objective_function(model)
     add_constraints(model)
