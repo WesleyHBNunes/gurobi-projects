@@ -7,7 +7,7 @@
 ![drudge](https://user-images.githubusercontent.com/45375544/66015840-8c3ea600-e4aa-11e9-8cf6-b7ad03ed13b1.png)
 
 ## Facility Allocation Problem model
-![facility-model](https://user-images.githubusercontent.com/45375544/66061184-5256b980-e515-11e9-9bd9-c8b5eaddc0e5.png)
+![facility-model](https://user-images.githubusercontent.com/45375544/66066761-84214d80-e520-11e9-8de4-af8e9c4d65e1.png)
 
 ## Knapsack Problem model
 ![knapsack](https://user-images.githubusercontent.com/45375544/66015910-d162d800-e4aa-11e9-8902-7eb12321b1ef.png)
