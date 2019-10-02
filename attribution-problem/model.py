@@ -15,10 +15,7 @@ def solve(coast, n):
 
 
 def add_vars(model, n):
-    x = [[[0] for _ in range(n)] for _ in range(n)]
-    for i in range(n):
-        for j in range(n):
-            x[i][j] = model.addVar(vtype=GRB.BINARY, name='Edge ' + str(i) + '-' + str(j))
+    x = [[model.addVar(vtype=GRB.BINARY, name='Edge ' + str(i) + '-' + str(j)) for j in range(n)] for i in range(n)]
     model.update()
     return x
 
