@@ -6,8 +6,12 @@
 ## Drudge model
 ![drudge](https://user-images.githubusercontent.com/45375544/66015840-8c3ea600-e4aa-11e9-8cf6-b7ad03ed13b1.png)
 
+
+## Facility Allocation Capacited Problem model
+![facility-capacited-problem](https://user-images.githubusercontent.com/45375544/66075499-23027580-e532-11e9-9be1-b80324e178cf.png)
+
 ## Facility Allocation Problem model
-![facility-model](https://user-images.githubusercontent.com/45375544/66066761-84214d80-e520-11e9-8de4-af8e9c4d65e1.png)
+![facility-problem](https://user-images.githubusercontent.com/45375544/66075606-61983000-e532-11e9-8550-20e9f98ba4d1.png)
 
 ## Knapsack Problem model
 ![knapsack](https://user-images.githubusercontent.com/45375544/66015910-d162d800-e4aa-11e9-8902-7eb12321b1ef.png)
