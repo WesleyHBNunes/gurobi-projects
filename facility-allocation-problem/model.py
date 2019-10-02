@@ -1,6 +1,6 @@
 from gurobi import *
 
-# N facilities
+# N Facilities
 # M Client
 
 
