@@ -39,6 +39,7 @@ def write_model(model):
 
 
 def print_used_vars(model):
+    print()
     variables = model.getVars()
     for var in variables:
         if var.x == 1:
