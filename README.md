@@ -4,7 +4,7 @@
 ![attr_model](https://user-images.githubusercontent.com/45375544/66015528-49c89980-e4a9-11e9-9762-b9cda323962a.png)
 
 ## Drudge model
-![drudge](https://user-images.githubusercontent.com/45375544/66015840-8c3ea600-e4aa-11e9-8cf6-b7ad03ed13b1.png)
+![drudge-problem](https://user-images.githubusercontent.com/45375544/66076228-b7210c80-e533-11e9-822d-558e92a04a2d.png)
 
 
 ## Facility Allocation Capacited Problem model
