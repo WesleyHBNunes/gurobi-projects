@@ -13,6 +13,3 @@
 Model from paper "The Dotted-Board Model: A new MIP model for nesting
 irregular shapes"
 ![nesting](https://user-images.githubusercontent.com/45375544/66015841-8c3ea600-e4aa-11e9-8c09-7e19cca94110.png)
-
-
-working on: TSP, Allocation Problem.
