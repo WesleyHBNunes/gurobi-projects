@@ -16,6 +16,9 @@
 ## Knapsack Problem model
 ![knapsack-model](https://user-images.githubusercontent.com/45375544/66076416-27c82900-e534-11e9-8a0c-208a81129472.png)
 
+## Lot Sizing Problem model
+![lot-sizing](https://user-images.githubusercontent.com/45375544/66485930-0610f980-ea80-11e9-9f53-190bccd597ca.png)
+
 ## Nesting Problem model
 Model from paper "The Dotted-Board Model: A new MIP model for nesting
 irregular shapes"
