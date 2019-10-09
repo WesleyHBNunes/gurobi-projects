@@ -3,9 +3,8 @@ import parser
 
 
 def main():
-    parser.read_file('Instances/instance1.txt')
-    objective_function, m = model.solve()
-    model.print_used_vars(m)
+    n, p, h, f, d = parser.read_file('Instances/instance1.txt')
+    objective_function, m = model.solve(n, p, h, f, d)
     print("Objective Function: " + str(objective_function))
 
 

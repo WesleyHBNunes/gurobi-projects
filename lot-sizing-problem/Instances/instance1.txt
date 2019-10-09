@@ -1,0 +1,54 @@
+# Periods
+12
+# Coast to produce one unit on period
+5
+10
+15
+20
+3
+1
+8
+9
+3
+99
+6
+12
+# Coast to store item on period
+8
+10
+25
+6
+3
+7
+10
+88
+6
+42
+3
+41
+# Coast to produce on period
+10
+8
+20
+1
+30
+50
+40
+10
+12
+15
+6
+1
+# Demand on period
+100
+200
+30
+50
+100
+60
+80
+95
+35
+12
+20
+60
