@@ -12,7 +12,7 @@ def solve(n, p, h, f, d):
     model.update()
     write_model(model)
     model.optimize()
-    print_used_vars(model, x, s, y)
+    print_used_vars(x, s, y)
     return model.getObjective().getValue(), model
 
 
@@ -44,7 +44,7 @@ def write_model(model):
     model.write('model.lp')
 
 
-def print_used_vars(model, x, s, y):
+def print_used_vars(x, s, y):
     print()
     for var in x:
         if var.x != 0:
