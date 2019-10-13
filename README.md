@@ -25,4 +25,4 @@
   ![nesting](https://user-images.githubusercontent.com/45375544/66015841-8c3ea600-e4aa-11e9-8c09-7e19cca94110.png)
 
   ## Shortest Path model
-![shortest-path-model](https://user-images.githubusercontent.com/45375544/66710255-0abd0280-ed4b-11e9-83d2-9ec7142a6c20.png)
+![shortest-path-model](https://user-images.githubusercontent.com/45375544/66710435-88364200-ed4e-11e9-987a-370faf3385cd.png)

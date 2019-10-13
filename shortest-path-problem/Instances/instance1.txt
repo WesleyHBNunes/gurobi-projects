@@ -1,10 +1,14 @@
-3
-0 0 2
-0 1 99
-0 2 99
-1 0 99
-1 1 2
-1 2 99
-2 0 99
-2 1 99
-2 2 2
+# Number of vertices
+6
+# Begin, end
+0 5
+# Origin to destiny and distance
+0 1 10
+0 2 20
+0 3 100
+1 2 20
+3 5 100
+3 4 30
+2 3 20
+4 5 20
+#
