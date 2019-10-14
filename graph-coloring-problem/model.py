@@ -34,7 +34,7 @@ def add_constraints(model, graph, x, k):
     for i in range(len(graph)):
         for j in range(len(graph)):
             if graph[i][j] == 1 or graph[j][i] == 1:
-                c = model.addConstr(x[i] >= x[j],
+                c = model.addConstr(x[i] != x[j],
                                     name="Difference of color between vertex " + str(i) + " and " + str(j))
                 constraints.append(c)
     model.update()
