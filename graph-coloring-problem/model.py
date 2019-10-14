@@ -36,7 +36,7 @@ def add_constraints(model, graph, x, w):
             if graph[i][k] == 1 or graph[k][i] == 1:
                 for j in range(len(w)):
                     model.addConstr(x[i][j] + x[k][j] <= w[j],
-                                    name="Sum of color of vertex " + str(i) + " and " + str(k)
+                                    name="Sum of colors of vertex " + str(i) + " and " + str(k)
                                          + " less or equal color " + str(j))
 
     model.update()
