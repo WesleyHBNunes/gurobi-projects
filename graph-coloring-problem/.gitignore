@@ -1,0 +1,4 @@
+.idea
+__pycache__
+gurobi.log
+model.lp
