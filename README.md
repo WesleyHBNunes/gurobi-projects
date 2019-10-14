@@ -12,6 +12,9 @@
 
   ## Facility Allocation Problem model
   ![facility-problem](https://user-images.githubusercontent.com/45375544/66075606-61983000-e532-11e9-8550-20e9f98ba4d1.png)
+  
+  ## Graph Coloring Problem model
+  ![graph-coloring](https://user-images.githubusercontent.com/45375544/66754643-cfb2f000-ee6c-11e9-9f1c-336343b81d65.png)
 
   ## Knapsack Problem model
   ![knapsack-model](https://user-images.githubusercontent.com/45375544/66076416-27c82900-e534-11e9-8a0c-208a81129472.png)
