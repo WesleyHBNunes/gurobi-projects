@@ -1,0 +1,52 @@
+Academic license - for non-commercial use only
+Changed value of parameter TimeLimit to 3600.0
+   Prev: 1e+100  Min: 0.0  Max: 1e+100  Default: 1e+100
+Warning: variable name "One queen in position 0, 0" has a space
+Warning: constraint name "One queen on line 0" has a space
+Warning: to let Gurobi read it back, use rlp format
+Optimize a model with 32 rows, 64 columns and 200 nonzeros
+Variable types: 0 continuous, 64 integer (64 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Found heuristic solution: objective 8.0000000
+Presolve removed 3 rows and 0 columns
+Presolve time: 0.00s
+Presolved: 29 rows, 64 columns, 192 nonzeros
+Variable types: 0 continuous, 64 integer (64 binary)
+
+Root relaxation: cutoff, 46 iterations, 0.00 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0     cutoff    0         8.00000    8.00000  0.00%     -    0s
+
+Explored 0 nodes (46 simplex iterations) in 0.00 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 1: 8 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 8.000000000000e+00, best bound 8.000000000000e+00, gap 0.0000%
+One queen in position 0, 6
+One queen in position 1, 4
+One queen in position 2, 0
+One queen in position 3, 3
+One queen in position 4, 1
+One queen in position 5, 7
+One queen in position 6, 5
+One queen in position 7, 2
+
+[0, 0, 0, 0, 0, 0, 1, 0]
+[0, 0, 0, 0, 1, 0, 0, 0]
+[1, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 1, 0, 0, 0, 0]
+[0, 1, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 1]
+[0, 0, 0, 0, 0, 1, 0, 0]
+[0, 0, 1, 0, 0, 0, 0, 0]
+
+Objective Function: 8.0

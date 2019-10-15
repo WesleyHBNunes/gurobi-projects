@@ -1,0 +1,2 @@
+#Dimension of board
+8
