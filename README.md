@@ -22,13 +22,13 @@
   ## Lot Sizing Problem model
   ![lot-sizing](https://user-images.githubusercontent.com/45375544/66485930-0610f980-ea80-11e9-9f53-190bccd597ca.png)
 
+  ## N-Queens Problem model
+  ![nqueens](https://user-images.githubusercontent.com/45375544/66841005-559f6b80-ef3f-11e9-9c73-ba7d465ec8f1.png)
+
   ## Nesting Problem model
   Model from paper "The Dotted-Board Model: A new MIP model for nesting
   irregular shapes"
   ![nesting](https://user-images.githubusercontent.com/45375544/66015841-8c3ea600-e4aa-11e9-8c09-7e19cca94110.png)
   
-  ## N-Queens Problem model
-  ![nqueens](https://user-images.githubusercontent.com/45375544/66841005-559f6b80-ef3f-11e9-9c73-ba7d465ec8f1.png)
-
   ## Shortest Path model
 ![shortest-path-model](https://user-images.githubusercontent.com/45375544/66710435-88364200-ed4e-11e9-987a-370faf3385cd.png)
