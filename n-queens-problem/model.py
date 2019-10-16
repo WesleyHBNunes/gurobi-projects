@@ -23,11 +23,11 @@ def add_vars(model, n):
     return x
 
 
-def add_constraints(model, x):
+def set_objective_function(model, x):
     model.setObjective(quicksum(x[i][j] for j in range(len(x)) for i in range(len(x))), GRB.MAXIMIZE)
 
 
-def set_objective_function(model, x):
+def add_constraints(model, x):
     for i in range(len(x)):
         model.addConstr(quicksum(x[i][j] for j in range(len(x))) <= 1, name="One queen on line " + str(i))
 
