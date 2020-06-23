@@ -4,7 +4,7 @@ from gurobi import *
 def solve(coast, n):
     env = Env()
     env.setParam('TimeLimit', 3600)
-    model = Model('Attribution Problem model', env)
+    model = Model('TSP model', env)
     x, u = add_vars(model, n)
     set_objective_function(model, x, coast, n)
     add_constraints(model, x, u, n)
