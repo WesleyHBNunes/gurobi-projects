@@ -34,4 +34,4 @@ irregular shapes"
 ![shortest-path-model](https://user-images.githubusercontent.com/45375544/66710435-88364200-ed4e-11e9-987a-370faf3385cd.png)
 
 ## TSP
-![tsp](https://user-images.githubusercontent.com/45375544/85446258-a48baf00-b56a-11ea-841d-c575098f3a20.png)
+![tsp](https://user-images.githubusercontent.com/45375544/85447044-8b373280-b56b-11ea-82fd-89bba3087ffb.png)
